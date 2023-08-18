@@ -4,6 +4,6 @@ This website was in need of changes to the HTML to be more semantic and accessib
 ## Changes
 The changes made did not affect the look of the website. 
 ## Link to website 
-[file:///Users/alexandria/bootcamp/homework/urban-octo-telegram/Develop/index.html#online-reputation-management](https://github.com/alliedeaver/horizon-SEO-Refactor)
+https://alliedeaver.github.io/horizon-SEO-Refactor/
 ## Technology used
 The technology used in order to make these changes included a Mac Laptop, VS code, and the MAc terminal.
